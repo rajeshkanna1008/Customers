@@ -1,0 +1,7 @@
+1.Party
+2.Customer Accounts
+3.Locations
+4.Party Sites
+5.Party Site Uses
+6.Cust Account Sites
+7.Cust Account Site Uses
